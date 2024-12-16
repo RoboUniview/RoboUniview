@@ -5,7 +5,7 @@
 
 <h1 align="center">RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulaiton</h1>
 
-![Python 3.8](https://img.shields.io/badge/Python-3.8-blue)
+### 🚩📑[Paper](https://arxiv.org/abs/2406.18977) | 🤗[Weight](https://huggingface.co/liufanfanlff/RoboUniView/tree/main/checkpoint_D_D)
 
 
 ![RoboUniView](assets/images/RoboUniView.png)
